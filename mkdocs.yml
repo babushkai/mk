@@ -49,6 +49,7 @@ extra:
       link: https://twitter.com/babushka_ml
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/emi_ndk
+      
 plugins:
   - i18n:
       default_language: en
@@ -62,6 +63,8 @@ plugins:
         fr:
           name: Français
           build: true
+  - mkdocs-jupyter
+
 
 # Extensions
 markdown_extensions:
@@ -115,6 +118,3 @@ nav:
     - Living in France: breakroom/france.md
   - About Daisuke Kuwabara: daisuke.md
 # Set language for search
-
-plugins:
-  - mkdocs-jupyter
