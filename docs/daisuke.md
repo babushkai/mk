@@ -17,7 +17,7 @@ Born in Japan, traveling around the world since 16 years old, especially several
 
 ## Experiences
 
-- Full Stack Data Scientist at [EPAM Systems](https://www.epam.com/)
+- Senior Application Support at [EPAM Systems](https://www.epam.com/)
 - Data Scientist & Computer Vision Engineer at [Startup](https://datafluct.com/)
 - MSc in Data Science & Artificial Intelligence at [Data ScienceTech Institute](https://www.datasciencetech.institute/)
 

@@ -17,7 +17,7 @@
 
 ## 経験
 
-- [EPAM Systems](https://www.epam.com/) のフルスタック データ サイエンティスト
+- [EPAM Systems](https://www.epam.com/) のシニアアプリケーションサポート
 - [Startup](https://datafluct.com/) のデータ サイエンティストおよびコンピューター ビジョン エンジニア
 - [Data ScienceTech Institute] (https://www.datasciencetech.institute/) でデータ サイエンスと人工知能の修士号を取得
 
