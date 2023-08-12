@@ -118,3 +118,7 @@ nav:
     - Living in France: breakroom/france.md
   - About Daisuke Kuwabara: daisuke.md
 # Set language for search
+
+extra_files:
+  - CNAME
+
