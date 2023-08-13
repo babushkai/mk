@@ -1,36 +1,48 @@
-# <center>Welcome to Babushka ML ![Image title](assets/babushka_black.png){ loading=lazy  width="50" top="30" }</center>
-<center>
-<p style="font-size:20px;color:#333;">Premium mentorship and hands-on training tailored to your machine learning aspirations.</p>
-</center>
+# Welcome to Babushka ML ![Image title](assets/babushka_black.png)
+Your gateway to mastering machine learning, with a special emphasis on the groundbreaking domain 
+of generative AI, including ChatGPT.
 
 ---
-# <center>Who Should Enroll in Babushka ML?</center>
 
-#### <center>University students eager to pioneer their data science and machine learning odyssey.</center>
-#### <center>Engineers envisioning a shift to roles in data or machine learning.</center>
-#### <center>Lifelong learners determined to master the forefront of data science.</center>
+## Who Should Enroll in Babushka ML?
 
----
-# <center>Transparent, Flexible Pricing:</center>
-
-<center>Our commitment is to provide value, thus we've adopted a flexible pricing structure. While the indicative rate stands at $15/hour, we believe in customizing costs based on your individual needs and situation.</center>
-
----
-# <center>Why Babushka ML is Your Best Choice:</center>
-
-<center>In the vast sea of online learning platforms, Babushka ML stands out, not just for what we teach, but for how we equip you to derive tangible value in your professional journey. With an MSc in Data Science, I've been where you are and understand the gaps many courses leave. We don’t just offer content; we offer a promise - a comprehensive understanding, immersive hands-on training, and a vision to translate learning into economic impact.</center>
+- **University students** keen to embark on both foundational and next-gen machine learning 
+avenues like generative AI.
+- **Engineers** wanting to transition to ML roles, especially those captivated by the promise of 
+ChatGPT and similar technologies.
+- **Lifelong learners** aiming to stay ahead in the fast-evolving world of data science and 
+AI-driven content generation.
 
 ---
-# <center>Words from Our Alumni:</center>
 
-<center>
-  <blockquote style="font-size:16px;color:#333;">"Daisuke's course was a revelation. His teaching methodology is unparalleled, and Babushka ML has been pivotal in shaping my machine learning journey." - John, Data Scientist</blockquote>
-  <blockquote style="font-size:16px;color:#333;">"With Daisuke's mentorship, I've bridged the gap between theory and application. His hands-on approach and dedicated attention were game-changers for me." - Sarah, Software Engineer</blockquote>
-</center>
+## Transparent, Flexible Pricing:
+At Babushka ML, we prioritize imparting knowledge. Our flexible pricing mirrors this ethos. While 
+starting at $15/hour, we customize pricing based on your unique journey and aspirations in the 
+realm of machine learning.
 
 ---
-# <center>Your Future in Machine Learning Awaits.</center>
 
-<center>
-  <button style="font-size:16px;padding:12px 24px;border:none;border-radius:4px;background-color:#333;color:#fff;">Embark on Your Journey with Babushka ML</button>
-</center>
+## Why Babushka ML is Your Best Choice:
+Babushka ML isn’t just another course platform; it's a transformative learning experience. Guided 
+by insights from my MSc in Data Science and hands-on experience, I've curated a course that 
+bridges conventional machine learning with the exhilarating realm of generative AI. Dive deep 
+into technologies like ChatGPT, explore their strategic significance, and grasp how to wield 
+their potential in real-world applications. Here, we offer not just content, but a commitment: to 
+equip you with skills that have immediate economic and innovative impact.
+
+---
+
+## Words from Our Alumni:
+> "Through Daisuke's course, I ventured beyond typical ML into the wonders of generative AI. 
+Babushka ML offered me an edge, one that's already making a difference in my professional 
+pursuits." - John, Data Scientist
+
+> "Daisuke has a knack for making complex concepts, like ChatGPT, accessible and applicable. His 
+mentorship has been instrumental in my transition to more advanced ML roles." - Sarah, Software 
+Engineer
+
+---
+
+## Step into the Future of Machine Learning:
+[Join Babushka ML and Lead the AI Revolution](#)
+
