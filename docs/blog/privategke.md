@@ -1,0 +1,1 @@
+Private GKE cluster has no external ip, hence it requires the NAT instance to route the traffic to Internet.
