@@ -15,7 +15,7 @@
 
 ### Networking
 - TCP/IP model
-
+- Intra Networking
 ### Machine Learning Engineer
 - Dashboard using Streamlit
 - Data Versioning with DVC
