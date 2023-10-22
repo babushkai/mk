@@ -31,6 +31,7 @@
 - Messaging System with Pub/Sub
 - Apache Airflow with Cloud Composer
 - Hadoop/Spark Ecosystem with Dataproc
+- Microservice architecture
 
 ### Data Science
 - Probability and Statistics
