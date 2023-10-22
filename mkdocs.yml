@@ -122,6 +122,3 @@ nav:
 
 extra_files:
   - CNAME
-
-extra_css:
-  - "/assets/extra.css"
