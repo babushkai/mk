@@ -34,5 +34,4 @@ jobs:
                -H "X-GitHub-Api-Version: 2022-11-28" \
                -H "Authorization: token ${{ secrets.PERSONAL_TOKEN }}" \
                https://api.github.com/repos/${{ github.repository }}/pages \
-              -d '{"cname": "babushkaml.com", "source": 
-{"branch":"gh-pages","path":"/"}}'
+              -d '{"cname": "babushkaml.com", "source": {"branch":"gh-pages","path":"/"}}'
