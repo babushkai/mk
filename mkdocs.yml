@@ -50,7 +50,7 @@ extra:
       link: https://twitter.com/babushka_ml
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/emi_ndk
-      
+
 plugins:
   - i18n:
       default_language: en
