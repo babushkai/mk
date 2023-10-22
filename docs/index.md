@@ -41,6 +41,7 @@ With an MSc in Data Science and years of industry experience, I'm committed to b
 ### FAQs:
 - What prerequisites are needed? None! Just a passion for learning.
 - How long is each course module? Each module varies, but most are between 2-3 hours.
+
 ---
 For more insights, follow us on Twitter, LinkedIn, and check out our Blog.
 
