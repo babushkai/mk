@@ -1,0 +1,4 @@
+.logo-class-name {
+    width: 80px;    /* Adjust this to the desired width */
+    height: auto;   /* This will maintain the aspect ratio */
+}

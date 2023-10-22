@@ -20,6 +20,7 @@ theme:
     - navigation.tabs
     - toc.integrate
     - header.autohide
+  logo: "assets/babushka_black.png"
 
 
 
@@ -122,3 +123,5 @@ nav:
 extra_files:
   - CNAME
 
+extra_css:
+  - "/assets/extra.css"

@@ -1,5 +1,6 @@
-# Welcome to Babushka ML ![Image title](assets/babushka_black.png)
-Your gateway to mastering machine learning, with a special emphasis on the groundbreaking domain 
+# Welcome to Babushka ML <img src="assets/babushka_black.png" alt="Image title" width="150">
+
+Your gateway to mastering machine learning, with a special emphasis on the groundbreaking domain
 of generative AI, including ChatGPT.
 
 ---
