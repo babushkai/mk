@@ -28,7 +28,7 @@ jobs:
       # Set custom domain via API after deployment
       - name: Set custom domain
         run: |
-          curl -X PUT \
+          curl --http1.1 -v -X PUT \
             -H "Authorization: token ${{ secrets.PERSONAL_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/${{ github.repository }}/pages \
