@@ -29,7 +29,7 @@
 </center>
 
 ---
-# <center>機械学習の未来が待っています。</center>
+# <center>機械学習の未来へ準備はいいですか。</center>
 
 <center>
   <button style="font-size:16px;padding:12px 24px;border:none;border-radius:4px;background-color:#333;color:#
