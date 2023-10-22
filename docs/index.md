@@ -33,17 +33,6 @@ equip you with skills that have immediate economic and innovative impact.
 
 ---
 
-## Words from Our Alumni:
-> "Through Daisuke's course, I ventured beyond typical ML into the wonders of generative AI. 
-Babushka ML offered me an edge, one that's already making a difference in my professional 
-pursuits." - John, Data Scientist
-
-> "Daisuke has a knack for making complex concepts, like ChatGPT, accessible and applicable. His 
-mentorship has been instrumental in my transition to more advanced ML roles." - Sarah, Software 
-Engineer
-
----
-
 ## Step into the Future of Machine Learning:
 [Join Babushka ML and Lead the AI Revolution](#)
 
