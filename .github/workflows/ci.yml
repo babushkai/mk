@@ -24,12 +24,14 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-static-i18n==0.56
       - run: pip install mkdocs-jupyter
+        run: |
+          sudo apt-get update
+          sudo apt-get install curl
       - run: mkdocs gh-deploy --force
       # Set custom domain via API after deployment
       - name: Set custom domain
         run: |
-          curl --http1.1 -v -L \
-               -X PUT \
+          curl -X PUT \
                -H "Accept: application/vnd.github+json" \
                -H "X-GitHub-Api-Version: 2022-11-28" \
                -H "Authorization: token ${{ secrets.PERSONAL_TOKEN }}" \

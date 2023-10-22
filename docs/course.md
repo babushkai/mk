@@ -40,6 +40,7 @@
 - Time-Series Analysis
 - Survival Analysis using R
 - Neural Network
+- KL Divergence and its usage
 - Parallel Computing in Python with Dask
 - Convolutional Neural Network
 - Deep Learning(Hugging Face, Model Garden)
