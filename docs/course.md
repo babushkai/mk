@@ -11,7 +11,7 @@
 - Docker and Operation System
 - Kubernetes and its components
 - Testing(Parametrize, Fixtures, Markers, Coverage)
-- Production
+
 
 ### Networking
 - TCP/IP model
@@ -42,8 +42,9 @@
 - Neural Network
 - Parallel Computing in Python with Dask
 - Convolutional Neural Network
-- Deep Learning
+- Deep Learning(Hugging Face, Model Garden)
 - Generative Model(RAG, LoRA, Multi Modal)
+
 
 ## Price
 Babushka ML is focusing on human factors in the first place. As such, the price of each course is detemined by the dynamic pricing, which means you can directly negotiate up to your satisfaction.
