@@ -1,6 +1,5 @@
 
-![Titre de l'image](https://pbs.twimg.com/profile_images/1448057392747319297/I40_1jBt_400x400.jpg){ loading=lazy }
-
+<center>![Image title](assets/self.png){ loading=lazy width="200" top="200"}</center>
 
 Après avoir terminé mon diplôme de premier cycle en études régionales où je me spécialise dans le Big Data en Afrique, je continue d'étudier la maîtrise en science des données au Data ScienceTech Institute et j'obtiens mon diplôme de première classe avec mention.
 

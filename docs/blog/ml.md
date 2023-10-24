@@ -1,24 +1,18 @@
-LLMを用いたMLOpsについて
-sell
-Python
-クラウド
+## Using LLM for MLOps
+Keywords: Python, Cloud, MLOps, ChatGPT
 
-MLOps
-,
-ChatGPT
-大規模言語モデル (LLM) スペースの開発ペースは、過去数か月で爆発的に増加しました。最も興味深いストーリーの 1 つは、これらの言語モデルでまったく新しいエンゲージメント パターンをサポートする新しい技術スタックへの急速な移行です。このブログ投稿では、LLM の技術スタックで行われている変更と、それが開発者にとって何を意味するかを探ります。
+The development pace in the Large Language Model (LLM) space has exploded over the past few months. One of the most intriguing stories is the rapid transition to a new tech stack that supports entirely new engagement patterns with these language models. In this blog post, we'll explore the changes being made in the LLM tech stack and what they mean for developers.
 
-既存の NLP 技術スタック
-最近まで、NLP 開発者は、テキスト分類、名前付きエンティティの認識、名前付きエンティティの明確化などの NLP タスク用に最適化された技術スタックに依存してきました。この技術スタックは通常、データ前処理パイプライン、機械学習パイプライン、および埋め込みと構造化データを格納するためのさまざまなデータベースで構成されます。このアーキテクチャは、大量のトリプル、単語の埋め込み、文の埋め込み、シーケンスからシーケンスへの出力、言語モデルの確率、注意の重みなどを生成するのにうまく機能しました。開発者は通常、これらの構造化された出力を ElasticSearch、Postgres、または Neo4j データベースに保存し、ユーザー (またはサービス) がクエリできるナレッジ グラフとして利用します。
+### Existing NLP Tech Stack
+Until recently, NLP developers relied on a tech stack optimized for NLP tasks like text classification, named entity recognition, and named entity disambiguation. This tech stack typically comprises data preprocessing pipelines, machine learning pipelines, and various databases for storing embeddings and structured data. This architecture efficiently produced vast triples, word embeddings, sentence embeddings, outputs from sequence to sequence, language model probabilities, and attention weights. Developers typically stored these structured outputs in databases like ElasticSearch, Postgres, or Neo4j, leveraging them as knowledge graphs that users (or services) can query.
 
-このアーキテクチャは、エンタープライズ システム内に展開して主要なプロセス (ドキュメントの分類、エンティティとエンティティ間の関係の検索など) を自動化できる、信頼性の高い構造化データの生成に適しています。しかし、それらは立ち上がるのが遅かったため、広く採用されるのに苦労しました (大量のラベル付きデータとかなりのモデルの微調整が必​​要でした)。実行するのに費用がかかります (これらのアーキテクチャでは、パイプライン/システムに 30 以上のモデルが含まれることがよくあります)。また、取り込みパイプラインとモデル パイプラインは、新しいドキュメント レイアウトとデータ タイプに対して脆弱でした。
+This architecture was suitable for generating reliable structured data that could be deployed within enterprise systems to automate major processes, such as classifying documents or searching for relationships between entities. However, its adoption was challenged due to slow startups (requiring large amounts of labeled data and considerable model fine-tuning) and the cost of operation (often incorporating over 30 models in these architectures). Ingestion pipelines and model pipelines were also vulnerable to new document layouts and data types.
 
-image.png
+### Emerging LLM Tech Stack
+Since the fall of 2022, a new tech stack designed to fully harness the potential of LLMs has begun to emerge. Unlike the previous stack, this one aims to enable text generation, a task at which the latest LLMs excel compared to previous machine learning models. This new stack consists of four pillars: data preprocessing pipelines, embedding endpoints + vector stores, LLM endpoints, and LLM programming frameworks. There are several significant differences between the old tech stack and the new one. Firstly, LLMs like ChatGPT, Claude, and Flan T-5 contain much more information encoded than earlier models like GPT-2, so the new tech stack does not rely on knowledge graphs that store structured data (like triples). Secondly, the new tech stack uses ready-made LLM endpoints as models instead of custom-built ML pipelines, at least to start. This substantially reduces the time developers spend today on training specialized information extraction models (like named entity recognition, relation extraction, sentiment, etc.), allowing solutions to be crafted in minimal time (and cost).
 
-新興の LLM 技術スタック
-2022 年の秋以降、LLM の可能性を最大限に活用するように設計された新しい技術スタックが出現し始めています。以前の技術スタックとは対照的に、これはテキスト生成を可能にすることを目的としています。これは、以前の機械学習モデルと比較して、最新の LLM が最も得意とするタスクです。この新しいスタックは、データ前処理パイプライン、埋め込みエンドポイント + ベクター ストア、LLM エンドポイント、LLM プログラミング フレームワークの 4 つの柱で構成されています。古い技術スタックと新しい技術スタックの間には、いくつかの大きな違いがあります。まず、ChatGPT、Claude、Flan T-5 などの LLM には、GPT 2 などの以前のモデルよりもはるかに多くの情報がエンコードされているため、新しい技術スタックは構造化データ (トリプルなど) を格納するナレッジ グラフに依存していません。 2 つ目: 新しい技術スタックは、カスタム構築された ML パイプラインではなく、既製の LLM エンドポイントをモデルとして使用します (少なくとも開始するため)。これは、今日の開発者が特殊な情報抽出モデル (名前付きエンティティ認識、関係抽出、感情など) のトレーニングに費やす時間を大幅に短縮し、わずかな時間 (およびコスト) でソリューションを作成できることを意味します。
+Transitioning to this new LLM tech stack is an exciting development that empowers developers to build and deploy more robust NLP applications. The new stack is more efficient, scalable, user-friendly, and maximizes the potential of LLMs. As developers continue to explore new ways to leverage the power of LLMs, we can expect to see even more innovations in this field over the next several months to years.
 
-image.png
 
-この新しい LLM 技術スタックへの移行は、開発者がより強力な NLP アプリケーションを構築および展開できるようにするエキサイティングな開発です。新しいスタックは、古いスタックよりも効率的でスケーラブルで使いやすく、LLM の可能性を最大限に引き出します。開発者が LLM の力を活用する新しい方法を探し続けているため、今後数か月から数年の間に、この分野でさらに多くのイノベーションが見られることが期待できます。
+
 

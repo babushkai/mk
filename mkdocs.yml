@@ -81,25 +81,23 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Book: tensorflow.ipynb
   - Course: course.md
   - MLOps:
       Main: MLOps/mlops.md
       Python:
         Introduction: MLOps/Python/introduction.md
         Async: MLOps/Python/async.py
-      MachineLearning:
-        Introduction: MLOps/MachineLearning/intro.md
-      SoftWare Engineering:
+      Software Engineering:
         API: MLOps/SoftwareEngineering/api.md
         Object Oriented Programming: MLOps/SoftwareEngineering/oop.md
         SOLID: MLOps/SoftwareEngineering/solid.md
         Networking: MLOps/SoftwareEngineering/network.md
         Microservice: MLOps/SoftwareEngineering/microservice.md
-
       Data Structure: MLOps/DataStructure/ds.md
       Mathematics:
-        KLDivergence: MLOps/Mathematics/KL_divergence.md
+        KL Divergence: MLOps/Mathematics/KL_divergence.md
+      Machine Learning:
+        Introduction: MLOps/MachineLearning/intro.md
       Data Engineering:
         SQL: MLOps/DataEngineering/SQL.md
   - Blog:
@@ -109,8 +107,6 @@ nav:
         Data Engineer: blog/data_engineer/data_engineer.md
         Data Mesh: blog/data_engineer/data_mesh.md
     - Kubeflow: blog/kubeflow.md
-    - Airflow: blog/airflow.md
-    - Beam: blog/beam.md
     - Using Tensorflow Transform in Apache Beam: blog/tft_beam.md
   - Break Room:
     - Find your ideal place: breakroom/break.md
