@@ -80,10 +80,11 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
-  - Course: course.md
-  - MLOps:
-      Main: MLOps/mlops.md
+  - Daisuke Kuwabara: daisuke.md
+  - Blog: 
+     GPU: blog/gpu.md
+  - Biblio:
+      MLOps: MLOps/mlops.md
       Python:
         Introduction: MLOps/Python/introduction.md
         Async: MLOps/Python/async.py
@@ -100,20 +101,7 @@ nav:
         Introduction: MLOps/MachineLearning/intro.md
       Data Engineering:
         SQL: MLOps/DataEngineering/SQL.md
-  - Blog:
-    - Why Babushka?: blog/babushka.md
-    - ML: blog/ml.md
-    - Data Engineer:
-        Data Engineer: blog/data_engineer/data_engineer.md
-        Data Mesh: blog/data_engineer/data_mesh.md
-    - Kubeflow: blog/kubeflow.md
-    - Using Tensorflow Transform in Apache Beam: blog/tft_beam.md
-  - Break Room:
-    - Find your ideal place: breakroom/break.md
-    - Living in Japan: breakroom/japan.md
-    - Living in Turkey: breakroom/turkey.md
-    - Living in France: breakroom/france.md
-  - About Daisuke Kuwabara: daisuke.md
+  - Why Babushka?: babushka.md
 # Set language for search
 
 extra_files:
