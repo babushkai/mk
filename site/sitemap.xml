@@ -325,6 +325,15 @@
          
     </url>
     <url>
+         <loc>Noneblog/rlhf/</loc>
+         <lastmod>2023-11-20</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/rlhf/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/rlhf/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/rlhf/"/>
+         
+    </url>
+    <url>
          <loc>Noneblog/tft_beam/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>

@@ -82,7 +82,7 @@ markdown_extensions:
 nav:
   - Daisuke Kuwabara: daisuke.md
   - Blog: 
-     GPU: blog/gpu.md
+     LLM: blog/rlhf.md
   - Biblio:
       MLOps: MLOps/mlops.md
       Python:
