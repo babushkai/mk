@@ -28,12 +28,21 @@
          
     </url>
     <url>
-         <loc>Nonedaisuke/</loc>
+         <loc>Nonedaisuke.fr/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/daisuke/"/>
-         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/daisuke/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/daisuke/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/daisuke.fr/"/>
+         
+         
+         
+    </url>
+    <url>
+         <loc>Nonedaisuke.jp/</loc>
+         <lastmod>2023-11-20</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/daisuke.jp/"/>
+         
+         
          
     </url>
     <url>

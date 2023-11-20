@@ -80,7 +80,8 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Daisuke Kuwabara: daisuke.md
+
+  - Daisuke Kuwabara: index.md
   - Blog: 
      LLM: blog/rlhf.md
   - Biblio:
