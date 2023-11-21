@@ -1,35 +1,17 @@
-# <center>Babushka ML へようこそ ![Image title](assets/babushka_black.png){ loading=lazy  width="50" top="30" }</center>
-<center>
-<p style="font-size:20px;color:#333;">機械学習のためのプレミアムな指導と実践的なトレーニング。</p>
-</center>
+<center>![画像タイトル](assets/self.png){ loading=lazy width="200" top="200"}</center>
 
----
-# <center>Babushka ML は誰のためですか？</center>
+[EPAM Systems](https://www.epam.com/)のシニアクラウドサポートエンジニア<ins>(GoogleのグローバルベンダーチームでのSME)</ins>で、Fortune 500やFAANGの企業を含むBigData/DataScience/MachineLearning/Generative AIに関する問い合わせをログ、メトリクス、ソースコードの分析、およびチケットシステムを使用したインフラの再現を通じて対応しています。該当するSLA/SLOに準じています。
 
-#### <center>データサイエンスと機械学習の旅を始める大学生</center>
-#### <center>データまたは機械学習の役割への移行を検討しているエンジニア</center>
-#### <center>データサイエンスの先端をマスターしたい生涯学習者</center>
+16歳の時から世界を旅しており、特にフランスで数年間を過ごし、南フランスの都市[モンペリエ](https://www.youtube.com/watch?v=jb1eNSH4EGQ&ab_channel=DaisukeKuwabara)に滞在しています。私の想像力は、私が生き、感じ、経験するすべての瞬間からのインスピレーションによって創造的な実体に具現化されています。
 
----
-# <center>料金はいくらでしょうか？</center>
+## 経験
 
-<center>私たちは価値を提供することにコミットしていますので、柔軟な価格構造を採用しています。指標としての料金は1時間あたり15ドルですが、個々のニーズや状況に基づいて費用が変動する場合があります。</center>
+- [EPAM Systems](https://www.epam.com/)でのシニアアプリケーションサポート
+- [スタートアップ](https://datafluct.com/)でのデータサイエンティスト＆コンピュータビジョンエンジニア
+- [Data ScienceTech Institute](https://www.datasciencetech.institute/)でのデータサイエンス＆人工知能の修士号
 
----
-# <center>なぜ Babushka ML を選ぶべきか？</center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuatqthpLAs" title="YouTubeビデオプレーヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<center>数多くのオンライン学習プラットフォームがありますが、Babushka ML は私たちが教える内容だけでなく、プロフェッショナルな旅で実際の価値を得る方法を教える点で他のものとは異なります。データサイエンスのMScを持っている私は、オンラインコースの制約を経験しており、実践的な練習の重要性を信じています。Babushka ML で、キャリアやビジネスでの成功のための専門的な指導と実践的なトレーニングを受けることができます。</center>
-
----
-# <center>私たちの学生の声：</center>
-
-<center>
-  <blockquote style="font-size:16px;color:#333;">"Daisukeのコースから多くを学びました。彼は優れた教師であり、機械学習についてもっと学びたい方にはBabushka MLを強くお勧めします。" - John, データサイエンティスト</blockquote>
-  <blockquote style="font-size:16px;color:#333;">"Daisukeのコースは私の機械学習スキルを次のレベルに引き上げるために必要なものでした。実践的なトレーニングと個別の注意が大きな違いを生んだ。" - Sarah, ソフトウェアエンジニア</blockquote>
-</center>
-
----
-# <center>機械学習の未来へ準備はいいですか。</center>
-
-<center>
-  <button style="font-size:16px;padding:12px 24px;border:none;border-radius:4px;background-color:#333;color:#
+## 連絡先
+- メール: daisuke0582@gmail.com
+- 電話: +81 90 9293 4580
