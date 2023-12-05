@@ -1,2 +1,3 @@
 ### Journey of life with Nika
 
+Recording my life with the dearest wife, Veronika Zhestovskaya. Our journey to go through the most challenging, unprecendeted era with strong will and hope to open the possibilities...
