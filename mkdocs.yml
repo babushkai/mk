@@ -84,6 +84,9 @@ nav:
   - Daisuke Kuwabara: index.md
   - Blog: 
      LLM: blog/rlhf.md
+     Math: blog/math.md
+     book: blog/book.md
+
   - Biblio:
       MLOps: MLOps/mlops.md
       Python:
