@@ -104,6 +104,7 @@ nav:
         KL Divergence: MLOps/Mathematics/KL_divergence.md
       Machine Learning:
         Introduction: MLOps/MachineLearning/intro.md
+        Pytorch: MLOps/MachineLearning/pytorch.md
         Prediction Server: MLOps/MachineLearning/prediction_server.md
       Data Engineering:
         SQL: MLOps/DataEngineering/SQL.md
