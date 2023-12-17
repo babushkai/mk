@@ -1,1 +1,1 @@
-test
+The local test could be done with minikube, deploying the prediction server and the send the request with test data. The production could be using Artifact Registry to manage containers and deploy into GKE or GAE, Cloud Run, key point is decouple the prediction server from the training server and flexibly scale it based on demand.

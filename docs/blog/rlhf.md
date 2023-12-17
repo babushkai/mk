@@ -13,4 +13,4 @@ https://github.com/LAION-AI/Open-Assistant
 
 https://github.com/lucidrains/PaLM-rlhf-pytorch
 
-https://github.com/CarperAI/trlx 
+https://github.com/CarperAI/trlx

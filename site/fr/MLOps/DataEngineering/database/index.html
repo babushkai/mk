@@ -17,7 +17,7 @@
     
     
       
-        <title>Database - Babushka ML</title>
+        <title>Postgre SQL - Babushka ML</title>
       
     
     
@@ -76,6 +76,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#postgre-sql" class="md-skip">
+          Aller au contenu
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -104,7 +109,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Database
+              Postgre SQL
             
           </span>
         </div>
@@ -195,7 +200,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../../blog/rlhf/" class="md-tabs__link">
+      <a href="../../../blog/ml/" class="md-tabs__link">
         Blog
       </a>
     </li>
@@ -318,6 +323,20 @@
           Blog
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blog/ml/" class="md-nav__link">
+        End_to_end_ML
+      </a>
+    </li>
+  
+
+            
           
             
               
@@ -679,6 +698,20 @@
 
             
           
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../MachineLearning/prediction_server/" class="md-nav__link">
+        Prediction Server
+      </a>
+    </li>
+  
+
+            
+          
         </ul>
       </nav>
     </li>
@@ -721,6 +754,20 @@
     <li class="md-nav__item">
       <a href="../SQL/" class="md-nav__link">
         SQL
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../advanced/" class="md-nav__link">
+        Advanced Topics
       </a>
     </li>
   
@@ -770,9 +817,54 @@
                   
 
 
-  <h1>Database</h1>
-
-
+<h1 id="postgre-sql">Postgre SQL</h1>
+<h2 id="data-types">Data Types</h2>
+<p>Primitives: Integer, Numeric, String, Boolean</p>
+<p>Structured: Date/Time, Array, Range / Multirange, UUID</p>
+<p>Document: JSON/JSONB, XML, Key-value (Hstore)</p>
+<p>Geometry: Point, Line, Circle, Polygon</p>
+<p>Customizations: Composite, Custom Types</p>
+<h2 id="data-integrity">Data Integrity</h2>
+<p>UNIQUE, NOT NULL</p>
+<p>Primary Keys</p>
+<p>Foreign Keys</p>
+<p>Exclusion Constraints</p>
+<p>ensure that if any two rows are compared on the specified columns or expressions using the specified operators, at least one of these operator comparisons will return false or null.</p>
+<p>Explicit Locks, Advisory Locks</p>
+<p>PostgreSQL provides various lock modes to control concurrent access to data in tables. These modes can be used for application-controlled locking in situations where MVCC does not give the desired behavior</p>
+<p>PostgreSQL provides a means for creating locks that have application-defined meanings. the system does not enforce their use — it is up to the application to use them correctly</p>
+<h2 id="concurrency-performance">Concurrency, Performance</h2>
+<p>Indexing: B-tree, Multicolumn, Expressions, Partial</p>
+<p>Advanced Indexing: GiST, SP-Gist, KNN Gist, GIN, BRIN, Covering indexes, Bloom filters</p>
+<p>Sophisticated query planner / optimizer, index-only scans, multicolumn statistics</p>
+<p>Transactions, Nested Transactions (via savepoints)</p>
+<p>Multi-Version concurrency Control (MVCC)</p>
+<p>Parallelization of read queries and building B-tree indexes</p>
+<p>Table partitioning</p>
+<p>All transaction isolation levels defined in the SQL standard, including Serializable</p>
+<p>Just-in-time (JIT) compilation of expressions</p>
+<h2 id="reliability-disaster-recovery">Reliability, Disaster Recovery</h2>
+<p>Write-ahead Logging (WAL)</p>
+<p>Replication: Asynchronous, Synchronous, Logical</p>
+<p>Point-in-time-recovery (PITR), active standbys</p>
+<p>Tablespaces</p>
+<h2 id="security">Security</h2>
+<p>Authentication: GSSAPI, SSPI, LDAP, SCRAM-SHA-256, Certificate, and more</p>
+<p>Robust access-control system</p>
+<p>Column and row-level security</p>
+<p>Multi-factor authentication with certificates and an additional method</p>
+<h2 id="extensibility">Extensibility</h2>
+<p>Stored functions and procedures</p>
+<p>Procedural Languages: PL/PGSQL, Perl, Python (and many more)</p>
+<p>SQL/JSON path expressions</p>
+<p>LIMIT returns only the number of rows, OFFSET indicates the number of rows to skip.</p>
+<p>Foreign data wrappers: connect to other databases or streams with a standard SQL interface</p>
+<p>Customizable storage interface for tables</p>
+<p>Many extensions that provide additional functionality, including PostGIS</p>
+<h2 id="internationalisation-text-search">Internationalisation, Text Search</h2>
+<p>Support for international character sets, e.g. through ICU collations</p>
+<p>Case-insensitive and accent-insensitive collations</p>
+<p>Full-text search</p>
 
 
   
