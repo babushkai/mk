@@ -181,6 +181,15 @@
          
     </url>
     <url>
+         <loc>NoneMLOps/MachineLearning/pytorch/</loc>
+         <lastmod>2023-12-17</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/MachineLearning/pytorch/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/MachineLearning/pytorch/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/MLOps/MachineLearning/pytorch/"/>
+         
+    </url>
+    <url>
          <loc>NoneMLOps/Mathematics/KL_divergence/</loc>
          <lastmod>2023-12-17</lastmod>
          <changefreq>daily</changefreq>
