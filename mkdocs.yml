@@ -82,7 +82,8 @@ markdown_extensions:
 # Page tree
 nav:
   - Daisuke Kuwabara: index.md
-  - Blog: 
+  - Blog:
+     End_to_end_ML: blog/ml.md
      LLM: blog/rlhf.md
      Math: blog/math.md
      Book: blog/book.md
@@ -103,8 +104,11 @@ nav:
         KL Divergence: MLOps/Mathematics/KL_divergence.md
       Machine Learning:
         Introduction: MLOps/MachineLearning/intro.md
+        Pytorch: MLOps/MachineLearning/pytorch.md
+        Prediction Server: MLOps/MachineLearning/prediction_server.md
       Data Engineering:
         SQL: MLOps/DataEngineering/SQL.md
+        Advanced Topics: MLOps/DataEngineering/advanced.md
   - Why Babushka?: babushka.md
 # Set language for search
 

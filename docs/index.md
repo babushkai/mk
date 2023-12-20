@@ -18,4 +18,4 @@ Born in Japan, traveling around the world since 16 years old, especially several
 
 ## Contact
 - Email: daisuke0582@gmail.com
-- Phone: +81 90 9293 4580
+- Phone: +81 90 7230 8574

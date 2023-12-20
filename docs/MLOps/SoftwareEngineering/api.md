@@ -1,3 +1,5 @@
+https://12factor.net/
+
 This code defines a FastAPI application and a single endpoint that serves as a health check. The app object is created using the FastAPI class, which is a web framework for building APIs with Python. The health check endpoint is defined using the @app.get decorator, which tells FastAPI to route HTTP GET requests to the decorated function.
 
 The decorated function, _index, returns a dictionary that contains a message, status code, and other information about the request. This dictionary is passed to the construct_response function, which wraps the original function and adds additional information to the response dictionary before returning it.
