@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>None./</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/"/>
@@ -11,7 +11,7 @@
     </url>
     <url>
          <loc>Nonebabushka/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/babushka/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/babushka/"/>
@@ -20,7 +20,7 @@
     </url>
     <url>
          <loc>Nonecourse/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/course/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/course/"/>
@@ -29,7 +29,7 @@
     </url>
     <url>
          <loc>Nonedaisuke.fr/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/daisuke.fr/"/>
          
@@ -38,7 +38,7 @@
     </url>
     <url>
          <loc>Nonedaisuke.jp/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/daisuke.jp/"/>
          
@@ -47,7 +47,7 @@
     </url>
     <url>
          <loc>Noneindex_course/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/index_course/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/index_course/"/>
@@ -56,7 +56,7 @@
     </url>
     <url>
          <loc>Nonetensorflow/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Nonetensorflow.ipynb"/>
          
@@ -65,7 +65,7 @@
     </url>
     <url>
          <loc>NoneMLOps/mlops/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/mlops/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/mlops/"/>
@@ -74,7 +74,7 @@
     </url>
     <url>
          <loc>NoneMLOps/Cloud/cloud/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/Cloud/cloud/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/Cloud/cloud/"/>
@@ -83,7 +83,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataEngineering/ELT/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataEngineering/ELT/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataEngineering/ELT/"/>
@@ -92,7 +92,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataEngineering/GKE/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataEngineering/GKE/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataEngineering/GKE/"/>
@@ -101,7 +101,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataEngineering/Partition/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataEngineering/Partition/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataEngineering/Partition/"/>
@@ -110,7 +110,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataEngineering/SOLID/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataEngineering/SOLID/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataEngineering/SOLID/"/>
@@ -119,7 +119,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataEngineering/SQL/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataEngineering/SQL/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataEngineering/SQL/"/>
@@ -128,7 +128,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataEngineering/advanced/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataEngineering/advanced/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataEngineering/advanced/"/>
@@ -137,7 +137,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataEngineering/database/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataEngineering/database/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataEngineering/database/"/>
@@ -146,7 +146,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataEngineering/hadoop/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataEngineering/hadoop/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataEngineering/hadoop/"/>
@@ -155,7 +155,7 @@
     </url>
     <url>
          <loc>NoneMLOps/DataStructure/ds/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/DataStructure/ds/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/DataStructure/ds/"/>
@@ -164,7 +164,7 @@
     </url>
     <url>
          <loc>NoneMLOps/MachineLearning/intro/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/MachineLearning/intro/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/MachineLearning/intro/"/>
@@ -173,7 +173,7 @@
     </url>
     <url>
          <loc>NoneMLOps/MachineLearning/prediction_server/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/MachineLearning/prediction_server/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/MachineLearning/prediction_server/"/>
@@ -182,7 +182,7 @@
     </url>
     <url>
          <loc>NoneMLOps/MachineLearning/pytorch/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/MachineLearning/pytorch/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/MachineLearning/pytorch/"/>
@@ -191,7 +191,7 @@
     </url>
     <url>
          <loc>NoneMLOps/Mathematics/KL_divergence/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/Mathematics/KL_divergence/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/Mathematics/KL_divergence/"/>
@@ -200,7 +200,7 @@
     </url>
     <url>
          <loc>NoneMLOps/Python/advanced/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/Python/advanced/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/Python/advanced/"/>
@@ -209,7 +209,7 @@
     </url>
     <url>
          <loc>NoneMLOps/Python/algorithm/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/Python/algorithm/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/Python/algorithm/"/>
@@ -218,7 +218,7 @@
     </url>
     <url>
          <loc>NoneMLOps/Python/async/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/Python/async/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/Python/async/"/>
@@ -227,7 +227,7 @@
     </url>
     <url>
          <loc>NoneMLOps/Python/introduction/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/Python/introduction/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/Python/introduction/"/>
@@ -236,7 +236,7 @@
     </url>
     <url>
          <loc>NoneMLOps/Python/reduce/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/Python/reduce/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/Python/reduce/"/>
@@ -245,7 +245,7 @@
     </url>
     <url>
          <loc>NoneMLOps/SoftwareEngineering/api/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/SoftwareEngineering/api/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/SoftwareEngineering/api/"/>
@@ -254,7 +254,7 @@
     </url>
     <url>
          <loc>NoneMLOps/SoftwareEngineering/microservices/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/SoftwareEngineering/microservices/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/SoftwareEngineering/microservices/"/>
@@ -263,7 +263,7 @@
     </url>
     <url>
          <loc>NoneMLOps/SoftwareEngineering/network/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/SoftwareEngineering/network/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/SoftwareEngineering/network/"/>
@@ -272,7 +272,7 @@
     </url>
     <url>
          <loc>NoneMLOps/SoftwareEngineering/nginx/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/SoftwareEngineering/nginx/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/SoftwareEngineering/nginx/"/>
@@ -281,7 +281,7 @@
     </url>
     <url>
          <loc>NoneMLOps/SoftwareEngineering/oop/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/SoftwareEngineering/oop/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/SoftwareEngineering/oop/"/>
@@ -290,7 +290,7 @@
     </url>
     <url>
          <loc>NoneMLOps/SoftwareEngineering/sdlc/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/SoftwareEngineering/sdlc/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/SoftwareEngineering/sdlc/"/>
@@ -299,7 +299,7 @@
     </url>
     <url>
          <loc>NoneMLOps/SoftwareEngineering/solid/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/MLOps/SoftwareEngineering/solid/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/MLOps/SoftwareEngineering/solid/"/>
@@ -308,7 +308,7 @@
     </url>
     <url>
          <loc>Noneblog/airflow/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/airflow/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/airflow/"/>
@@ -317,7 +317,7 @@
     </url>
     <url>
          <loc>Noneblog/beam/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/beam/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/beam/"/>
@@ -326,7 +326,7 @@
     </url>
     <url>
          <loc>Noneblog/book/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/book/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/book/"/>
@@ -335,7 +335,7 @@
     </url>
     <url>
          <loc>Noneblog/gpu/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/gpu/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/gpu/"/>
@@ -344,7 +344,7 @@
     </url>
     <url>
          <loc>Noneblog/kubeflow/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/kubeflow/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/kubeflow/"/>
@@ -353,7 +353,7 @@
     </url>
     <url>
          <loc>Noneblog/math/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/math/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/math/"/>
@@ -362,7 +362,7 @@
     </url>
     <url>
          <loc>Noneblog/ml/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/ml/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/ml/"/>
@@ -371,7 +371,7 @@
     </url>
     <url>
          <loc>Noneblog/privategke/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/privategke/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/privategke/"/>
@@ -380,7 +380,7 @@
     </url>
     <url>
          <loc>Noneblog/rlhf/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/rlhf/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/rlhf/"/>
@@ -389,7 +389,7 @@
     </url>
     <url>
          <loc>Noneblog/tft_beam/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/tft_beam/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/tft_beam/"/>
@@ -398,7 +398,7 @@
     </url>
     <url>
          <loc>Noneblog/data_engineer/data_engineer/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/data_engineer/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/data_engineer/"/>
@@ -407,7 +407,7 @@
     </url>
     <url>
          <loc>Noneblog/data_engineer/data_mesh/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/data_mesh/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/data_mesh/"/>
@@ -416,7 +416,7 @@
     </url>
     <url>
          <loc>Noneblog/data_engineer/datalake/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/datalake/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/datalake/"/>
@@ -425,7 +425,7 @@
     </url>
     <url>
          <loc>Nonebreakroom/break/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/break/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/break/"/>
@@ -434,7 +434,7 @@
     </url>
     <url>
          <loc>Nonebreakroom/france/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/france/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/france/"/>
@@ -443,7 +443,7 @@
     </url>
     <url>
          <loc>Nonebreakroom/japan/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/japan/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/japan/"/>
@@ -452,7 +452,7 @@
     </url>
     <url>
          <loc>Nonebreakroom/turkey/</loc>
-         <lastmod>2023-12-17</lastmod>
+         <lastmod>2023-12-20</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/turkey/"/>
          <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/turkey/"/>
